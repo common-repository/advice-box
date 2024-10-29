@@ -1,0 +1,39 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+
+.advice-box.green {
+    color: #000000;
+    padding: 10px 20px;
+    border: 2px solid #3a7533;
+    background-color: #bfffb8;
+}
+
+.advice-box.red {
+    color: #ffffff;
+    padding: 10px 20px;
+    border: 2px solid #8b2e25;
+    background-color: #ed5b49;
+}
+
+.advice-box.grey {
+    color: #000000;
+    padding: 10px 20px;
+    border: 2px solid #AAAAAA;
+    background-color: #EEEEEE;
+}
+
+.positive {
+    font-size: 64px;
+    color: #3a7533;
+}
+
+.negative {
+    font-size: 64px;
+    color: #ba2618;
+}
+
+.clear {
+    clear: both;
+}
